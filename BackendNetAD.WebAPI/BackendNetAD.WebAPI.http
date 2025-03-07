@@ -1,0 +1,6 @@
+@BackendNetJwt.WebAPI_HostAddress = http://localhost:5288
+
+GET {{BackendNetJwt.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
